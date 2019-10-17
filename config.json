@@ -1,0 +1,7 @@
+{
+  "keys": ["shfoahfhssofdashfosfhsofhhfohfoa"],
+  "fromPath": "./origin-img",
+  "toPath": "./new-img",
+  "ignorePath": ["./origin-img/.git"],
+  "ignoreFile": []
+}
